@@ -1,0 +1,11 @@
+from utilitarios import *
+cr = cc('receitas')
+cCon = cc('contas fixas')
+cl = cc('lazer')
+cv = cc('viagenss')
+ct(d='salário jan/2025',v=1000, c=cr)
+ct(d='ingresso',v= -150, c=cl)
+ct(d='conta de luz',v= -100, c=cCon)
+ct(d='Disney',v= -400, c=cv)
+total = st()
+print('saldo total: ',total)

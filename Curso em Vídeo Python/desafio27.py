@@ -1,0 +1,5 @@
+n = str(input('Digite o seu nome completo: '))
+p = n.split()
+u = n.rsplit()
+print(f'primeiro nome: {p[0]}')
+print(f'último nome: {u[-1]}')

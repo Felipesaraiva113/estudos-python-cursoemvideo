@@ -1,0 +1,15 @@
+tupla =('Thragg', 'Nolan', 'Mark', 'Conquista', 'Oliver', 'Argall', 'Thaedus', 'Anissa', 'Kregg', 'Lucan')
+def linha_igual():
+    print('-='*15)
+linha_igual()
+print(f'Lista dos viltrumitas mais fortes de Invencível: {tupla}')
+linha_igual()
+print(f'Os 5 primeiros são: {tupla[0:5]}')
+linha_igual()
+print(f'Os 4 últimos são: {tupla[-4:]}')
+linha_igual()
+print(f'Viltrumitas em ordem alfabética: {sorted(tupla)}')
+linha_igual()
+pos = tupla.index('Kregg')
+print(f'Kregg está na {pos+1}ª posição')
+

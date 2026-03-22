@@ -1,0 +1,8 @@
+Nome: felipe
+Idade: 56
+Nome: ana
+Idade: 54
+Nome: 4
+Idade: 4
+Nome: juliana
+Idade: 23
