@@ -1,2 +1,1 @@
-# estudos-python-cursoemvideo
-
+Repositório dedicado ao aprendizado de fundamentos de Python, contendo mais de 100 exercícios práticos que cobrem desde lógica básica até manipulação de estruturas de dados complexas e tratamento de exceções.
